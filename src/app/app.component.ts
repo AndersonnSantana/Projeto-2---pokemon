@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['app.component.scss'],
 })
 export class AppComponent {
+areaBuscarPokemon: any;
+buscarPokemon: any;
+areaBusca: any;
   constructor() {}
 }
